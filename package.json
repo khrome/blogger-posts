@@ -1,0 +1,34 @@
+{
+    "name": "blogger-posts",
+    "homepage": "https://github.com/khrome/blogger-posts",
+    "version": "0.0.1",
+    "main": "blogger.js",
+    "scripts": {
+        "test": " ./node_modules/mocha/bin/mocha"
+    },
+    "description": "Blogger posts for research & training",
+    "keywords": [
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/blogger-posts/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/khrome/blogger-posts.git"
+    },
+    "dependencies": {
+        "xml2js": "*",
+        "request": "*",
+        "async-arrays": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
