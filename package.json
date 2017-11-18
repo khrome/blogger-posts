@@ -1,12 +1,12 @@
 {
     "name": "blogger-posts",
     "homepage": "https://github.com/khrome/blogger-posts",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "blogger.js",
     "scripts": {
-        "test": " ./node_modules/mocha/bin/mocha"
+        "post-install": "cd scripts; ./download.sh"
     },
-    "description": "Blogger posts for research & training",
+    "description": "Blogger posts for research and training",
     "keywords": [
     ],
     "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",

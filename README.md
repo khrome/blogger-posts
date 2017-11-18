@@ -17,7 +17,7 @@ For each age group there are an equal number of male and female bloggers.
 
 Each blog in the corpus includes at least 200 occurrences of common English words. All formatting has been stripped with two exceptions. Individual posts within a single blogger are separated by the date of the following post and links within a post are denoted by the label urllink.
 
-This data originated [here](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm)
+This data originates [here](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm)
 
 Usage
 -----
@@ -52,4 +52,4 @@ Enjoy,
 
 -Abbey Hawk Sparrow
 
-(I only did the coding)
+(I only did the coding, data is installed from the original file via `post-install` hook)
